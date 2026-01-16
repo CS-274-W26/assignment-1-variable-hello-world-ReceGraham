@@ -4,7 +4,6 @@
 
 // assign1
 // does all the stuff this assignment is supposed to do
-
 void assign1() {
 	int myrand = rand() % 11;
 
